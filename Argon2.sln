@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isopoh.Cryptography.Test", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{6EED6F14-8F1D-430F-AEF1-E6B5567A3A68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heikomilke.HashTest", "heikomilke.HashTest\heikomilke.HashTest.csproj", "{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,18 @@ Global
 		{6EED6F14-8F1D-430F-AEF1-E6B5567A3A68}.Release|x64.Build.0 = Release|Any CPU
 		{6EED6F14-8F1D-430F-AEF1-E6B5567A3A68}.Release|x86.ActiveCfg = Release|Any CPU
 		{6EED6F14-8F1D-430F-AEF1-E6B5567A3A68}.Release|x86.Build.0 = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|x64.Build.0 = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Debug|x86.Build.0 = Debug|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|x64.ActiveCfg = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|x64.Build.0 = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A3A89CC-4BD7-48DA-9C83-8DF9C5EF1889}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
