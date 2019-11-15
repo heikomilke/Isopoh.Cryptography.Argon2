@@ -6,4 +6,4 @@ services:
       context: .
       dockerfile: dockerfile
     mem_limit: 100mb
-    cpu_count: 2      
+    cpu_count: 1  
