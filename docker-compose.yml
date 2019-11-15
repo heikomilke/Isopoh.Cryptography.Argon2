@@ -1,0 +1,9 @@
+# not complete, can not be used standalone
+version: '2.2'
+services:
+  hashtest: 
+    build: 
+      context: .
+      dockerfile: dockerfile
+    mem_limit: 100mb
+    cpu_count: 2      
