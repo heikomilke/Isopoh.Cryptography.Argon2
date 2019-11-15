@@ -24,7 +24,6 @@
         <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
         <SignAssembly>true</SignAssembly>
         <DelaySign>false</DelaySign>
-        <AssemblyOriginatorKeyFile>isopoh.pfx</AssemblyOriginatorKeyFile>
     </PropertyGroup>
 
     <ItemGroup>

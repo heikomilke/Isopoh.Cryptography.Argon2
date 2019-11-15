@@ -26,7 +26,6 @@
         <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
         <SignAssembly>true</SignAssembly>
         <DelaySign>false</DelaySign>
-        <AssemblyOriginatorKeyFile>isopoh.pfx</AssemblyOriginatorKeyFile>
         <NuspecProperties>$summary$='la la la';summary='ho ho ho'</NuspecProperties>
     </PropertyGroup>
 
